@@ -24,6 +24,11 @@ Beyond software and video games, I'm a dedicated music lover — I play bass gui
 
 ---
 
+## Some of my projects
+
+- [LogFlow](https://github.com/Goblanch/logflow) - Unreal Engine logging plugin.
+- [Expediente-Index](https://github.com/Goblanch/Expediente-Index) - Simple Python app for lawyers productivity improvement.
+
 ## Languages
 
 <p align="left">
