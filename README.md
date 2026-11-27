@@ -17,8 +17,7 @@ I'm a proactive and driven developer with a genuine passion for problem-solving.
 Beyond software and video games, I'm a dedicated music lover — I play bass guitar and enjoy attending live concerts whenever I can.
 
 - **Currently studying**: Computer Science (Ingeniería Informática) in Madrid
-- **Currently working on**: Developing open source Unreal Engine plugins under the name [Mirador Works](https://github.com/Goblanch) (coming soon to FAB)
-- **Currently learning**: Unreal C++ tooling & engine development · Data Structures & Algorithms
+- **Currently working on**: Developing open source assets for Unity under the name [Mirador Works](https://github.com/Goblanch)
 - **Background**: Técnico Experto en Desarrollo de Videojuegos · Programming since 2019
 - **Contact**: Reach me on [LinkedIn](https://www.linkedin.com/in/gonzaloblanch/)
 
@@ -26,8 +25,8 @@ Beyond software and video games, I'm a dedicated music lover — I play bass gui
 
 ## Some of my projects
 
-- [LogFlow](https://github.com/Goblanch/logflow) - Unreal Engine logging plugin.
-- [Expediente-Index](https://github.com/Goblanch/Expediente-Index) - Simple Python app for lawyers productivity improvement.
+- [Forgekit](https://github.com/Goblanch/forgekit) - CLI Unity Asset Auditor.
+- [Settings Wizard](https://github.com/Goblanch/mw-settings-wizard) - Game settings system for Unity
 
 ## Languages
 
